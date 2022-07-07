@@ -1,0 +1,3 @@
+[submodule "gosdk-models"]
+	path = gosdk-models
+	url = git@github.com:alex-korobko/gosdk-codegen.git

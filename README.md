@@ -1,11 +1,9 @@
 # Amazon's Selling Partner API (SP-API) Golang SDK
 
-[![Go Reference](https://pkg.go.dev/badge/gopkg.me/selling-partner-api-sdk.svg)](https://pkg.go.dev/gopkg.me/selling-partner-api-sdk)
-
 ## Installation
 
 ~~~~
-go get -u gopkg.me/selling-partner-api-sdk
+go get -u github.com/alex-korobko/selling-partner-api-sdk
 ~~~~
 
 ## Progress
@@ -28,7 +26,7 @@ go get -u gopkg.me/selling-partner-api-sdk
 * [X] sellers ([sellers-api-model](https://github.com/amzn/selling-partner-api-models/blob/main/models/sellers-api-model/sellers.json) [DOC](https://github.com/amzn/selling-partner-api-docs/blob/main/references/sellers-api/sellers.md))
 * [X] service ([services-api-model](https://github.com/amzn/selling-partner-api-models/blob/main/models/services-api-model/services.json) [DOC](https://github.com/amzn/selling-partner-api-docs/blob/main/references/services-api/services.md))
 * [X] shipping ([shipping-api-model](https://github.com/amzn/selling-partner-api-models/blob/main/models/shipping-api-model/shipping.json) [DOC](https://github.com/amzn/selling-partner-api-docs/blob/main/references/shipping-api/shipping.md))
-* [ ] smallAndLight ([fba-small-and-light-api](https://github.com/amzn/selling-partner-api-models/blob/main/models/fba-small-and-light-api-model/fbaSmallandLight.json) [DOC](https://github.com/amzn/selling-partner-api-docs/blob/main/references/fba-small-and-light-api/fbaSmallandLight.md))
+* [x] smallAndLight ([fba-small-and-light-api](https://github.com/amzn/selling-partner-api-models/blob/main/models/fba-small-and-light-api-model/fbaSmallandLight.json) [DOC](https://github.com/amzn/selling-partner-api-docs/blob/main/references/fba-small-and-light-api/fbaSmallandLight.md))
 * [X] solicitations ([solicitations-api-model](https://github.com/amzn/selling-partner-api-models/blob/main/models/solicitations-api-model/solicitations.json) [DOC](https://github.com/amzn/selling-partner-api-docs/blob/main/references/solicitations-api/solicitations.md))
 * [X] uploads ([uploads-api-model](https://github.com/amzn/selling-partner-api-models/blob/main/models/uploads-api-model/uploads_2020-11-01.json) [DOC](https://github.com/amzn/selling-partner-api-docs/blob/main/references/uploads-api/uploads_2020-11-01.md))
 
