@@ -41,8 +41,8 @@ import (
 	"net/http"
 	"net/http/httputil"
 	
-	sp "gopkg.me/selling-partner-api-sdk/pkg/selling-partner"
-	"gopkg.me/selling-partner-api-sdk/sellers"
+	sp "github.com/alex-korobko/selling-partner-api-sdk/pkg/selling-partner"
+	"github.com/alex-korobko/selling-partner-api-sdk/gosdk-models/amzn/selling-partner-api-go-sdk/sellers"
 
 	"github.com/google/uuid"
 	"github.com/pkg/errors"
